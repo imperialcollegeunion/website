@@ -1,0 +1,3 @@
+[submodule "sites/all/modules"]
+	path = sites/all/modules
+	url = git://github.com/imperialcollegeunion/modules.git
